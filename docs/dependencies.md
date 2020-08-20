@@ -29,7 +29,7 @@ Everything apart from above, is not supported, and out of scope.
 |-------|------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Intel | x86_64           | Complete      | Requires <a href="https://en.wikipedia.org/wiki/X86_virtualization#Intel_virtualization_(VT-x)">VT-x</a>, most non-Atom 64-bit Intel CPUs since Pentium 4 should be supported |
 | AMD   | x86_64           | Alpha         | Requires [AMD-V](https://en.wikipedia.org/wiki/X86_virtualization#AMD_virtualization_.28AMD-V.29), most AMD CPUs since the Athlon 64 "Orleans" should be supported            |
-| ARM   | AArch64 (64-bit) | Alpha         | Requires GICv3, see [here](https://github.com/firecracker-microvm/firecracker/issues/1196)                                                                                    |
+| ARM   | AArch64 (64-bit) | Alpha         |                                                                                                                                                                               |
 
 ## Guest Requirements
 
